@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="R0gue-Pineapple — penetration tester, vulnerability management, product security" width="100%">
+<img src="https://raw.githubusercontent.com/R0gue-Pineapple/R0gue-Pineapple/main/assets/banner.svg" alt="R0gue-Pineapple — penetration tester, vulnerability management, product security" width="100%">
 
 ```
 Advisory ID   R0G-0001                     First published   2019-XX-XX
@@ -17,7 +17,7 @@ Most of my work happens in product security for industrial software: intake,
 triage, CVSS adjudication between teams who disagree, and CSAF 2.0 advisories
 that have to be right the first time because customers automate against them.
 
-<img src="assets/rule.svg" alt="" width="100%">
+<img src="https://raw.githubusercontent.com/R0gue-Pineapple/R0gue-Pineapple/main/assets/rule.svg" alt="" width="100%">
 
 ## Affected components
 
@@ -66,7 +66,7 @@ writing      Python · python-docx · a suspicious amount of regex
 
 </details>
 
-<img src="assets/rule.svg" alt="" width="100%">
+<img src="https://raw.githubusercontent.com/R0gue-Pineapple/R0gue-Pineapple/main/assets/rule.svg" alt="" width="100%">
 
 ## Proof of concept
 
@@ -96,7 +96,7 @@ Everything published here is built for authorised testing only: signed engagemen
 your own systems, or legal practice environments. Nothing in these repositories is
 intended to be pointed at infrastructure you do not have written permission to touch.
 
-<img src="assets/rule.svg" alt="" width="100%">
+<img src="https://raw.githubusercontent.com/R0gue-Pineapple/R0gue-Pineapple/main/assets/rule.svg" alt="" width="100%">
 
 ## Contact
 
