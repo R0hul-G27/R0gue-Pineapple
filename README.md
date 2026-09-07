@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="R0gue-Pineapple — penetration tester, vulnerability management, product security" width="100%">
+<img src="banner.svg" alt="R0gue-Pineapple — penetration tester, vulnerability management, product security" width="100%">
 
 ```
 Advisory ID   R0G-0001                     First published   2019-XX-XX
